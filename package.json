@@ -1,6 +1,6 @@
 {
   "name": "stablethread",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "TS SDK for StableThread",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bevanhunt/stablethread-npm.git"
+    "url": "git+https://github.com/bevanhunt/stablethread-sdk.git"
   },
   "keywords": [
     "solana",
@@ -18,7 +18,7 @@
   "author": "Bevan Hunt",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bevanhunt/stablethread-npm/issues"
+    "url": "https://github.com/bevanhunt/stablethread-sdk/issues"
   },
-  "homepage": "https://github.com/bevanhunt/stablethread-npm#readme"
+  "homepage": "https://github.com/bevanhunt/stablethread-sdk#readme"
 }
