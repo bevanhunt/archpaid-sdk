@@ -1,0 +1,24 @@
+{
+  "name": "stablethread",
+  "version": "0.0.1",
+  "description": "TS SDK for StableThread",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bevanhunt/stablethread-npm.git"
+  },
+  "keywords": [
+    "solana",
+    "stablethread",
+    "payments"
+  ],
+  "author": "Bevan Hunt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bevanhunt/stablethread-npm/issues"
+  },
+  "homepage": "https://github.com/bevanhunt/stablethread-npm#readme"
+}
