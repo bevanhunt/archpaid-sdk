@@ -1,14 +1,14 @@
 {
-  "name": "stablethread",
-  "version": "0.0.2",
-  "description": "TS SDK for StableThread",
+  "name": "archpaid",
+  "version": "0.0.1",
+  "description": "TS SDK for ArchPaid",
   "main": "index.js",
   "scripts": {
     "test": "yarn test"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bevanhunt/stablethread-sdk.git"
+    "url": "git+https://github.com/bevanhunt/archpaid-sdk.git"
   },
   "keywords": [
     "solana",
@@ -18,7 +18,7 @@
   "author": "Bevan Hunt",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bevanhunt/stablethread-sdk/issues"
+    "url": "https://github.com/bevanhunt/archpaid-sdk/issues"
   },
-  "homepage": "https://github.com/bevanhunt/stablethread-sdk#readme"
+  "homepage": "https://github.com/bevanhunt/archpaid-sdk#readme"
 }
